@@ -20,8 +20,10 @@
 
 <h2>Github Stats</h2>
 ![Yushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niisari&theme=shadow_red_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niisari)](https://github.com/Niisari/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niisari&layout=compact&theme=shadow_red)](https://github.com/Niisari/github-readme-stats)
+
 
 <h2>📉Codewars Stats:</h2>
 ![Codewars](https://github.r2v.ch/codewars?user=Yushiiii&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+
 
