@@ -18,10 +18,12 @@
 <img src="https://iconic-api.onrender.com/dark/vscode" width="64px" />
 <div>
 
-<h2>📑GitHub Stats</h2>
+<h2>📑GitHub Stats:</h2>
 
 ![Yushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niisari&show_icons=true&theme=shadow_red)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niisari&layout=compact&theme=shadow_red)](https://github.com/Niisari/github-readme-stats)
 
+<h2>📈Codewars Stats:</h2>
 
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Yushiiii&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
