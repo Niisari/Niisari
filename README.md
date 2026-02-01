@@ -20,9 +20,13 @@
 
 <h2>📑GitHub Stats:</h2>
 
-![Yushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niisari&show_icons=true&theme=shadow_red)
+![Yushi's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Niisari&theme=dracula&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niisari&layout=compact&theme=shadow_red)](https://github.com/Niisari/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Niisari&theme=dracula)](https://github.com/Niisari/github-readme-stats)
+
+<h2>📶Github Streak:</h2>
+
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Niisari&theme=dracula)](https://github.com/Niisari/github-readme-stats-fast)
 
 <h2>📈Codewars Stats:</h2>
 
