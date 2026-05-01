@@ -13,6 +13,7 @@
 <img src="https://iconic-api.onrender.com/dark/html" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/css" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/react" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/git" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/webpack" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/github" width="64px" />
